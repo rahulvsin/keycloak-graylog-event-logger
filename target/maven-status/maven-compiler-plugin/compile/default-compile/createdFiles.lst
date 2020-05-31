@@ -1,0 +1,4 @@
+com\event\graylog\dispatch\CustomEventListenerProviderFactory.class
+com\event\graylog\dispatch\GrayLogMessageSenderContants.class
+com\event\graylog\dispatch\GrayLogMessageSender.class
+com\event\graylog\dispatch\CustomEventListenerProvider.class
